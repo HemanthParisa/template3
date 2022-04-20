@@ -1,0 +1,177 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  height: 50px;
+}
+.task1 {
+  display: flex;
+  width: 50px;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+.task11 {
+  display: flex;
+  width: 200px;
+}
+.task11 div{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+}
+.local, .l1 {
+  display: flex;
+  justify-content: center; 
+  background-color: gray;
+  height: 250px;
+
+}
+
+.local div {
+  height: 50px;
+  width: 300px;
+  background-color: aqua;
+  
+}
+
+.what {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+}
+.what div{
+  display: flex;
+  width: 150px;
+  justify-items: center;
+  align-items: center;
+  background-color: gray;
+  margin: 10px;
+ padding: 40px;
+
+}
+
+.hemanth {
+  display: flex;
+  justify-content: space-around;
+  height: 200px;
+}
+
+.icon1 {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 80px;
+  width: 100px;
+  background-color: gray;
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+}
+
+.icon5 {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 80px;
+  width: 100px;
+  background-color: gray;
+  position: absolute;
+  bottom: 0;
+  right: 200px;
+}
+
+.icon2 {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 80px;
+  width: 100px;
+  background-color: gray;
+  position: absolute;
+  bottom: 50px;
+  left: 400px;
+
+}
+
+.icon4 {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 80px;
+  width: 100px;
+  background-color: gray;
+  position: absolute;
+  bottom: 50px;
+  right: 400px;
+
+}
+
+.icon3 {
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 80px;
+  width: 100px;
+  background-color: gray;
+}
+
+.form {
+  display: flex;
+  height: 200px;
+  margin-top: 20px;
+  background-color: gray;
+}
+
+ .form1 {
+  display: flex;
+  background-color: gray;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+ .form11 {
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+  flex-direction: column;
+  
+}
+.form11 >div {
+  display: flex;
+  justify-content: flex-end;
+  border: 1px solid white;
+  width: 50%;
+  height: 100%;
+  flex-direction: column;
+}
+
+.news {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+.news div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  background-color: gray;
+}
+
+.link {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  background-color: gray;
+  margin-bottom: 10px;
+}
+
+
